@@ -1,0 +1,11 @@
+# Ignore compiled Python files
+*.pyc
+
+# Ignore Robot Framework output files
+output.xml
+report.html
+log.html
+
+# Ignore virtual environment files (if using a virtual environment)
+venv/
+env/
